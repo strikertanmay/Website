@@ -1,0 +1,40 @@
+body {
+
+    background: #F4F4F4;
+    margin: 0;
+
+}
+
+.container {
+     
+    width:780px;
+    margin: 0 auto;
+    background: #FFF;
+
+}
+
+.header {
+
+    padding: 45px 0 20px 40px;
+    border: px solid black;
+}
+
+.menu {
+
+    background: #3b7687;
+    padding: 6px 0 6px 40 px;
+}
+
+.menu a {
+
+    color: #c5d6db;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "Arial Narrow", "Hybrid pro";
+}
+
+.menu a:hover{
+
+    color:#ecf2;
+}
+
